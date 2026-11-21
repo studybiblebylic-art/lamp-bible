@@ -1,0 +1,39 @@
+{
+  "packageId": "com.holybible.parallel",
+  "host": "ais-dev-yxsxy7gmchlla65tg4tok2-697326457514.asia-southeast1.run.app",
+  "name": "Holy Bible",
+  "launcherName": "Holy Bible",
+  "display": "standalone",
+  "themeColor": "#1E242B",
+  "themeColorDark": "#14171C",
+  "navigationColor": "#1E242B",
+  "navigationColorDark": "#14171C",
+  "navigationDividerColor": "#2E3640",
+  "navigationDividerColorDark": "#1E242B",
+  "backgroundColor": "#FBF8F1",
+  "enableNotifications": false,
+  "startUrl": "/",
+  "iconUrl": "https://ais-dev-yxsxy7gmchlla65tg4tok2-697326457514.asia-southeast1.run.app/pwa-512x512.png",
+  "maskableIconUrl": "https://ais-dev-yxsxy7gmchlla65tg4tok2-697326457514.asia-southeast1.run.app/pwa-maskable-512x512.png",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "./android.keystore",
+    "alias": "holybible"
+  },
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "shortcuts": [],
+  "generatorApp": "bubblewrap-cli",
+  "webManifestUrl": "https://ais-dev-yxsxy7gmchlla65tg4tok2-697326457514.asia-southeast1.run.app/manifest.webmanifest",
+  "fallbackType": "customtabs",
+  "features": {},
+  "alphaDependencies": {
+    "enabled": false
+  },
+  "enableSiteSettingsShortcut": true,
+  "isChromeOSOnly": false,
+  "isMetaQuest": false,
+  "fullScopeUrl": "https://ais-dev-yxsxy7gmchlla65tg4tok2-697326457514.asia-southeast1.run.app/",
+  "minSdkVersion": 21,
+  "orientation": "default"
+}

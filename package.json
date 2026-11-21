@@ -1,0 +1,15 @@
+{
+  "name": "holy-bible-android-wrapper",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "twa:build": "npx @bubblewrap/cli update && npx @bubblewrap/cli build",
+    "cap:sync": "npx cap sync android"
+  },
+  "devDependencies": {
+    "@bubblewrap/cli": "^1.21.0",
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/cli": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  }
+}
